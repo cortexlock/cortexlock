@@ -16,7 +16,7 @@ I'm a software developer living in Windsor, just outside London. I love JavaScri
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-For me, the mission is everything. If I'm into an idea, I'm unstoppable. When I'm not coding, I love cycling, playing modern boardgames and spending quality time with my family under big skies.
+For me, the mission is everything - if I'm into an idea, I'm like the Duracell bunny. When I'm not coding, I love cycling, playing modern boardgames and spending quality time with my family under big skies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=cortexlock&show_icons=true&theme=gotham" align="center" />
 
