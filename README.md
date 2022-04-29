@@ -19,7 +19,7 @@ I'm a software developer living in Windsor, just outside London. I love JavaScri
 
 For me, the mission is everything - if I'm into an idea, I'm like the Duracell bunny. When I'm not coding, I love cycling, playing modern boardgames and spending quality time with my family under big skies.
 
-<img src="https://github-readme-stats.vercel.app/api?username=cortexlock&show_icons=true&theme=gotham" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=jamesfoxlee&show_icons=true&theme=gotham" align="center" />
 
 Connect with me on:
 
