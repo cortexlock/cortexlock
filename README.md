@@ -1,6 +1,6 @@
 ## I'm James.
 
-I'm a software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React and Node. I'm currently looking sideways at Svelte and hoping React doesn't notice, and very keen to develop more in Python and try Rust. With that said, I'd be happy to use anything - it's all about the right tool for the job.
+I'm a software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React and Node. Newly hatched Rustacean and I'm currently looking sideways at Svelte and hoping React doesn't notice. With that said, I'd be happy to use anything - it's all about the right tool for the job.
 
 ### Languages and tools
 
