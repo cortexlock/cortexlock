@@ -21,6 +21,8 @@ For me, the mission is everything - if I'm into an idea, I'm like the Duracell b
 
 <img src="https://github-readme-stats.vercel.app/api?username=jamesfoxlee&show_icons=true&theme=gotham" align="center" />
 
+NB my work commits are not currently to GitHub!
+
 Connect with me on:
 
 <a href="https://www.linkedin.com/in/james-foxlee/">
