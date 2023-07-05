@@ -1,6 +1,6 @@
 ## I'm James.
 
-I'm a software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React and Node. Newly hatched Rustacean and I'm currently looking sideways at Svelte and hoping React doesn't notice. With that said, I'd be happy to use anything - it's all about the right tool for the job.
+I'm a software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React and Node. I'm increasingly loving TypeScript and probably wouldn't leave home without it. Also a newly hatched Rustacean, and I'm currently looking sideways at Svelte and hoping React doesn't notice. With that said, I'd be happy to use anything - it's all about the right tool for the job.
 
 ### Languages and tools
 
@@ -17,11 +17,11 @@ I'm a software developer living in Windsor, just outside London. I love JavaScri
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-For me, the mission is everything - if I'm into an idea, I'm like the Duracell bunny. When I'm not coding, I love cycling, playing modern boardgames and spending quality time with my family under big skies.
+For me, the mission is everything - if I'm into an idea, I'm like the Duracell bunny. When I'm not coding, I teach U10 rugby and love surfing, cycling, playing modern boardgames and spending quality time with my family under big skies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jamesfoxlee&show_icons=true&theme=gotham" align="center" />
 
-NB my work commits are not currently to GitHub!
+NB my work commits in my previous 2 jobs have not been to GitHub!
 
 Connect with me on:
 
