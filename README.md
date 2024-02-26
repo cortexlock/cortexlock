@@ -19,7 +19,7 @@ With that said, I'd be happy to use anything - it's all about the right tool for
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-When I'm not coding, I teach U10 rugby and love surfing, cycling, modern boardgames and spending quality time with my family under big skies. Rather unwisely I've taken up football recently and have already done both my knees in!
+When I'm not coding, I teach U10 rugby and love football, surfing, cycling, and spending quality time with my family under big skies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jamesfoxlee&show_icons=true&theme=gotham" align="center" />
 
