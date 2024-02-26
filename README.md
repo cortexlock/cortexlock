@@ -1,6 +1,8 @@
 ## I'm James.
 
-I'm a doctor turned software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React - though these days I'd rather not leave home without Typescript. I'm a newly hatched Rustacean, and I'm currently looking sideways at Svelte and hoping React doesn't notice. With that said, I'd be happy to use anything - it's all about the right tool for the job.
+I'm a doctor turned software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React - though these days I'd rather not leave home without Typescript. Back end wise I'm a newly hatched Rustacean and enjoying the journey, I've also worked with PostgreSQL, Firebase and a bit of GCP.
+
+With that said, I'd be happy to use anything - it's all about the right tool for the job. I'm really passionate about a quality end product and user experience - this has to come about as a result of great communication between stakeholders and dev teams. 
 
 ### Languages and tools
 
@@ -17,7 +19,7 @@ I'm a doctor turned software developer living in Windsor, just outside London. I
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-For me, the mission is everything - if I'm into an idea, I'm like the Duracell bunny. When I'm not coding, I teach U10 rugby and love surfing, cycling, playing modern boardgames and spending quality time with my family under big skies.
+When I'm not coding, I teach U10 rugby and love surfing, cycling, modern boardgames and spending quality time with my family under big skies. Rather unwisely I've taken up football recently and have already done both my knees in!
 
 <img src="https://github-readme-stats.vercel.app/api?username=jamesfoxlee&show_icons=true&theme=gotham" align="center" />
 
@@ -25,8 +27,4 @@ For me, the mission is everything - if I'm into an idea, I'm like the Duracell b
 
 Connect with me on:
 
-<a href="https://www.linkedin.com/in/james-foxlee/">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="48" height="48" focusable="false">
-      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
-  </svg>
-</a>
+<a href="https://www.linkedin.com/in/james-foxlee/">LinkedIn</a>
