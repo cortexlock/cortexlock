@@ -1,8 +1,8 @@
 ## I'm James.
 
-I'm a doctor turned software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React - though these days I'd rather not leave home without Typescript. Back end wise I'm a newly hatched Rustacean and enjoying the journey, I've also worked with PostgreSQL, Firebase and a bit of GCP.
+I'm a doctor turned software developer living in Windsor, just outside London. I love JavaScript (even with its odd parts) and the ecosystem, especially React - though these days I'd rather not leave home without Typescript. Back end wise I mainly use Node / Express. I'm a newly hatched Rustacean and enjoying the journey, I also work with PostgreSQL, Firebase and a bit of GCP.
 
-With that said, I'd be happy to use anything - it's all about the right tool for the job. I'm really passionate about a quality end product and user experience - this has to come about as a result of great communication between stakeholders and dev teams. 
+With that said, I'd be happy to learn and use anything - it's all about the right tool for the job. I'm really passionate about a quality end product and user experience - this has to come about as a result of great communication between stakeholders and dev teams. 
 
 ### Languages and tools
 
